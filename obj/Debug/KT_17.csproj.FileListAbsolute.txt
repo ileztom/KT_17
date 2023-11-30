@@ -1,0 +1,11 @@
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\bin\Debug\KT_17.exe.config
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\bin\Debug\KT_17.exe
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\bin\Debug\KT_17.pdb
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.csproj.AssemblyReference.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.Form1.resources
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.Properties.Resources.resources
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.csproj.GenerateResource.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.csproj.CoreCompileInputs.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.exe
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_17\obj\Debug\KT_17.pdb
